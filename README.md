@@ -1,5 +1,7 @@
 # GSM Operator Switching Model
 
+http://modelingcommons.org/browse/one_model/5355#model_tabs_browse_nlw
+
 The model was designed to analyze switching behavior of customers
 in the GSM sector through the Agent Based Modeling approach.
 
